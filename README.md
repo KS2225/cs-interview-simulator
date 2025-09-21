@@ -48,7 +48,9 @@ Open `http://localhost:5173` in your browser.
 ## 🤝 Credits
 
 Built with assistance from ChatGPT for development guidance. Powered by Gemini AI for intelligent interview responses.
+Credit to [SeanPrashad](https://github.com/seanprashad) for providing the coding patterns.
 
 ---
 
 © 2025 CS Interview Simulator - Making technical interviews less scary, one question at a time.
+
